@@ -109,10 +109,8 @@ Contributions are welcome! Feel free to fork the repository, create a feature br
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
+## OUTPUT 
+![Screenshot 2024-12-26 224031](https://github.com/user-attachments/assets/19e5fa47-503a-4956-b7ef-fde74571d11f)
 
 
 
